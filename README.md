@@ -1,6 +1,9 @@
-👋 Hi, I’m @ayush-alag
+👋 Hi, I’m Ayush!
+
 👀 I’m interested in software systems, machine learning, user-oriented products, and hip hop.
+
 🌱 I’m currently learning how to build trading systems and how to whistle
+
 📫 Shoot me an email at aalag@princeton.edu!
 
 <!---
