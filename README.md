@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning how to build trading systems, play guitar, and whistle
 
-📫 Shoot me an email at aalag@princeton.edu!
+📫 Shoot me an email at aalag@stanford.edu!
 
 <!---
 ayush-alag/ayush-alag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
